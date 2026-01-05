@@ -30,8 +30,6 @@ The system replaces manual record-keeping with real-time tracking, approvals, an
 
 ---
 
-## Access
-The system is hosted online and accessible to all authorized faculty staff and administrators.
 
 ---
 
